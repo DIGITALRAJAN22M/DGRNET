@@ -4,8 +4,11 @@ it is created by @Rajan Kumar Barik known as ANONDGR (me 😊)
 
 # { INSTALLATION }
 1.git clone https://github.com/DIGITALRAJAN22M/DGRNET.git
+
 2. cd DGRNET
+   
 3. chmod +x dgrnet.py
+   
 4. ./dgrnet.py 
 
 
@@ -44,5 +47,7 @@ echo 'ABCDEFGHI' | ./dgrnet.py -t 192.168.23.13 -p 445
 ################################################################################
 
 R:\DGRNET>
+
+
 
 
