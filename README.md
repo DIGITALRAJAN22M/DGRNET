@@ -46,7 +46,8 @@ dgrnet.py -t 192.168.0.1 -p 8888 -l -u=C:\\file.exe
 echo 'ABCDEFGHI' | ./dgrnet.py -t 192.168.23.13 -p 445
 ################################################################################
 
-R:\DGRNET>
+R:\DGRNET>![preview jpg](https://github.com/DIGITALRAJAN22M/DGRNET/assets/96865310/fdaab568-f9d6-40c1-a135-8cf136bacbbe)
+
 
 
 
