@@ -6,10 +6,11 @@ it is created by @Rajan Kumar Barik known as ANONDGR (me 😊)
 1.git clone https://github.com/DIGITALRAJAN22M/DGRNET.git
 
 2. cd DGRNET
+3. pip3 install -r requirements.txt
+     
+4. chmod +x dgrnet.py
    
-3. chmod +x dgrnet.py
-   
-4. ./dgrnet.py 
+5. ./dgrnet.py 
 
 
 # preview
