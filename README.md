@@ -17,7 +17,7 @@ it is created by @Rajan Kumar Barik known as ANONDGR (me 😊)
 
 
 R:\DGRNET>python dgrnet.py
-Could not find platform independent libraries <prefix>
+
       ###    ##    ##  #######  ##    ## ########   ######   ########  
      ## ##   ###   ## ##     ## ###   ## ##     ## ##    ##  ##     ## 
     ##   ##  ####  ## ##     ## ####  ## ##     ## ##        ##     ## 
